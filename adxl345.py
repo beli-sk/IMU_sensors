@@ -99,8 +99,10 @@ class SensorADXL345(object):
         return (ax, ay, az)
 
 if __name__ == '__main__':
+    import time
     sensor = SensorADXL345(1, 0x53)
     sensor.default_init()
+    time.sleep(0.1)
     ax, ay, az = sensor.read_data()
     sensor.standby()
     print ax, ay, az
