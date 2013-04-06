@@ -9,6 +9,14 @@ Included is support for these sensors:
  * ADXL345 digital accelerometer
  * ITG3200 digital gyroscope
 
+Requirements
+------------
+
+ * Python 2
+ * kernel driver for your I2C controller loaded
+ * SMBus python module (package python-smbus in Debian)
+ * superuser access may be needed for accessing I2C
+
 Development
 -----------
 
