@@ -9,6 +9,11 @@ Included is support for these sensors:
  * ADXL345 digital accelerometer
  * ITG3200 digital gyroscope
 
+Documentation
+-------------
+
+Please see [project wiki][3] for some code examples and hardware tips.
+
 Requirements
 ------------
 
@@ -20,7 +25,7 @@ Requirements
 Development
 -----------
 
-[Project page][3] is hosted on Github.
+[Project page][4] is hosted on Github.
 
 License
 -------
@@ -47,4 +52,5 @@ with the software.
 
 [1]: http://python.org/ "Python official website"
 [2]: http://www.raspberrypi.org/ "Raspberry Pi official website"
-[3]: https://github.com/beli-sk/IMU_sensors "IMU sensors project page"
+[3]: https://github.com/beli-sk/IMU_sensors/wiki "IMU sensors project wiki"
+[4]: https://github.com/beli-sk/IMU_sensors "IMU sensors project page"
