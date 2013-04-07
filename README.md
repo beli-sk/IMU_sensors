@@ -9,6 +9,8 @@ Included is support for these sensors:
  * ADXL345 digital accelerometer
  * ITG3200 digital gyroscope
 
+Only polling is supported at the moment (no interrupts).
+
 Documentation
 -------------
 
