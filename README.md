@@ -4,6 +4,8 @@ IMU sensors
 [Python][1] classes to interface with IMU sensors via I2C protocol on
 [Raspberry Pi][2] and similar platforms.
 
+Developed for [Quad/Pi project][5]
+
 Included is support for these sensors:
 
  * ADXL345 digital accelerometer
@@ -56,3 +58,4 @@ with the software.
 [2]: http://www.raspberrypi.org/ "Raspberry Pi official website"
 [3]: https://github.com/beli-sk/IMU_sensors/wiki "IMU sensors project wiki"
 [4]: https://github.com/beli-sk/IMU_sensors "IMU sensors project page"
+[5]: http://www.coders.sk/quadpi "Quad/Pi project"
